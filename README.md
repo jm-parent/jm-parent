@@ -2,7 +2,7 @@
 ##### My Stats
 
 [![Jm's github stats](https://github-readme-stats.vercel.app/api?username=jm-parent&show_icons=true&theme=radical)](https://github.com/jm-parent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jm-parent&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jm-parent&theme=radical)
 
 
 
