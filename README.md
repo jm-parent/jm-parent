@@ -30,3 +30,6 @@ Timezone: Europe/Paris (CEST)
   <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jm-parent&theme=radical&hide=javascript,HTML,Vim%20%snippet)
 
+## My Holopin Badge Board
+
+[![@jm_parent's Holopin board](https://holopin.io/api/user/board?user=jm_parent)](https://holopin.io/@jm_parent)
