@@ -16,8 +16,7 @@ Timezone: Europe/Paris (CEST)
 </p>
 <br />
 
-💪 I am currently working on new AppCenter Mobile App version with MAUI<br />
-💻 I also work on multiple projects more or less in progress 👼 <br/>
+💻 I work on multiple projects more or less in progress 👼 <br/>
 🐦 Flutter ? Yeah I’m still working on little project <br />
 💬 Ask me about anything related to... Gaming/Esport , Card game expert too 😏 <br />
 😵 Fun fact: ...   <br />
