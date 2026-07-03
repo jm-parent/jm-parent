@@ -2,7 +2,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jean-Marie%20PARENT&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Lead%20Dev%20C%23%20%2F%20MAUI%20%26%20Flutter%20Dev&descSize=16&descAlignY=55" width="100%"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Flutter+%7C+React+Native+%7C+iOS+%7C+Android;Kotlin+%7C+Swift+%7C+TypeScript+%7C+Python;GCP+%7C+Node.js+%7C+Ktor+%7C+Django;6%2B+years+building+production-grade+apps)](https://git.io/typing-svg)
 
 <p>
   <h1 align="center"><b>Hello ! I'm Jean-Marie </h1>
