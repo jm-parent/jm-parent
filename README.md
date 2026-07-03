@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jean-Marie%20PARENT&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Lead%20Dev%20C%23%20%2F%20MAUI%20%2526%20Flutter%20Dev&descSize=16&descAlignY=55" width="100%"/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jean-Marie%20PARENT&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Lead%20Dev%20C%23%20%2F%20MAUI%20and%20Flutter%20Dev&descSize=16&descAlignY=55" width="100%"/>
 <p>
   <h1 align="center"><b>Hello ! I'm Jean-Marie </h1>
   <p align="center"><b>.Net / Xamarin.Forms / MAUI</p>
